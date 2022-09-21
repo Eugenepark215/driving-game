@@ -25,9 +25,3 @@ function moveCar() {
   position += 10;
   car.style.left = position + 'px';
 }
-
-// car.style.left = ''
-// position = 0;
-
-// car.style.left ='something'
-// position = something
